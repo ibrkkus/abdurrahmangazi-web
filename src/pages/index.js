@@ -37,8 +37,8 @@ function Mobile() {
         />
 
         <p className="text-gray-700 max-w-2xl leading-7 mb-5 text-sm lg:text-base">
-          Kur'an-ı Kerim ve Sünnet-i Seniyye ışığında ilim, amel ve ihlas ile
-          bezenmiş ümmetin geleceğini yetiştiriyoruz
+          Kur&apos;an-ı Kerim ve Sünnet-i Seniyye ışığında ilim, amel ve ihlas
+          ile bezenmiş ümmetin geleceğini yetiştiriyoruz
         </p>
 
         <div>
@@ -84,8 +84,8 @@ function Desktop() {
         ></div>
 
         <p className="text-gray-700 max-w-2xl leading-7 mb-5 text-sm lg:text-base">
-          Kur'an-ı Kerim ve Sünnet-i Seniyye ışığında ilim, amel ve ihlas ile
-          bezenmiş ümmetin geleceğini yetiştiriyoruz
+          Kur&apos;an-ı Kerim ve Sünnet-i Seniyye ışığında ilim, amel ve ihlas
+          ile bezenmiş ümmetin geleceğini yetiştiriyoruz
         </p>
 
         <div>
@@ -126,7 +126,7 @@ export default function Home() {
 
   return (
     <div
-      className={`${castoro.variable} ${montserrat.variable} min-h-screen p-8 pb-20 gap-16 sm:p-10 font-[family-name:var(--font-montserrat)] flex flex-col content-between h-full min-h-screen`}
+      className={`${castoro.variable} ${montserrat.variable} min-h-screen p-8 pb-20 gap-16 sm:p-10 font-[family-name:var(--font-montserrat)] flex flex-col content-between h-full`}
     >
       <Link
         href="https://wa.me/+905414426525?text=Selamun Aleyküm Hocam, "
