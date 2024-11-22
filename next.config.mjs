@@ -4,8 +4,8 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  assetPrefix: isProd ? "/abdurrahmangazi-web" : "",
-  basePath: isProd ? "/abdurrahmangazi-web" : "",
+  assetPrefix: "/abdurrahmangazi-web",
+  basePath: "/abdurrahmangazi-web",
   output: "export",
 };
 
