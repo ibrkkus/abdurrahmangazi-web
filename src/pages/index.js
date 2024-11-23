@@ -14,6 +14,11 @@ const montserrat = localFont({
   weight: "100 900",
 });
 
+export const metadata = {
+  title: "Abdurrahman Gazi Islami Ilimler Egitim Merkezi",
+  description: "Hafızlık ve İslami ilimler eğitim merkezimizin resmi sitesi",
+};
+
 function Mobile() {
   return (
     <main className="md:hidden">
